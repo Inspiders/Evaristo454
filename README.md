@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###  Ghost 🧙🏾‍♂️
+##  Ghost 🧙🏾‍♂️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]
